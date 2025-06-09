@@ -1,0 +1,35 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VSCode
+.vscode/
+
+# Gradle
+.gradle/
+build/
+# Specifically ignore Tattle's temporary json file
+/build/loom-cache/mojang-mappings-1.19.3.tiny
+# Ignore Gradle build output files
+!build/resources
+!build/classes
+
+# Minecraft / Forge
+run/
+runs/
+logs/
+user_jvm_args.txt
+eclipse/
+# MDK
+forge*changelog.txt
+# Generated Resources
+src/generated/
