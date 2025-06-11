@@ -1,4 +1,4 @@
-# Echidna mod fordge 1.19.4
+# Echidna mod forge 1.19.4
 
 Этот проект добавляет в игру моба Ехидна
 
